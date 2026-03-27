@@ -1,7 +1,7 @@
 <!-- Advanced Futuristic Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24,30&text=ARYAAN%20BHATIA&fontSize=70&fontColor=A78BFA&stroke=A78BFA&strokeWidth=2&animation=fadeIn&fontAlignY=40&descAlignY=60&desc=ACTUARIAL%20AND%20AI%20Graduate%20%40%20UNSW%20%7C%20Masters%20in%20Applied%20Mathematics&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24,30&text=ARYAAN%20BHATIA&fontSize=70&fontColor=A78BFA&stroke=A78BFA&strokeWidth=2&animation=fadeIn&fontAlignY=40&descAlignY=60&desc=Actuarial%20AND%20AI%20Graduate%20%40%20UNSW%20%7C%20Masters%20in%20Applied%20Mathematics&descSize=18"/>
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=3000&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+%26+Mathematics+Graduate;ML+%7C+Systems+%7C+Applied+Math;Turning+Theory+into+Real+Software" alt="Role Typing"/>
