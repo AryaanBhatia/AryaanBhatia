@@ -1,7 +1,7 @@
 <!-- Advanced Futuristic Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24,30&text=ARYAAN%20BHATIA&fontSize=70&fontColor=A78BFA&stroke=A78BFA&strokeWidth=2&animation=fadeIn&fontAlignY=40&descAlignY=60&desc=AI%20Graduate%20%40%20UNSW%20%7C%20Masters%20in%20Applied%20Mathematics&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20,24,30&text=ARYAAN%20BHATIA&fontSize=70&fontColor=A78BFA&stroke=A78BFA&strokeWidth=2&animation=fadeIn&fontAlignY=40&descAlignY=60&desc=ACTUARIAL%20AND%20AI%20Graduate%20%40%20UNSW%20%7C%20Masters%20in%20Applied%20Mathematics&descSize=18"/>
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=3000&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+%26+Mathematics+Graduate;ML+%7C+Systems+%7C+Applied+Math;Turning+Theory+into+Real+Software" alt="Role Typing"/>
@@ -112,19 +112,6 @@ const aryaan = {
 
 ---
 
-## 📊 PERFORMANCE ANALYTICS
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryaanBhatia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AryaanBhatia&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
-
-<div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaanBhatia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&layout=compact&include_all_commits=true&count_private=true" />
-</div>
-
----
-
 ## 🎮 KNOWLEDGE GRAPH
 
 <div align="center">
@@ -187,7 +174,8 @@ mindmap
 class Developer:
     def __init__(self):
         self.name        = "Aryaan Bhatia"
-        self.degrees     = ["B.Sc. Artificial Intelligence @ UNSW",
+        self.degrees     = ["B.ActSt. Actuarial Studies @ UNSW",
+                            "B.Sc. Artificial Intelligence @ UNSW",
                             "Masters in Applied Mathematics (in progress)"]
         self.languages   = ["Python", "Rust", "C++", "Haskell", "TypeScript", "R"]
         self.philosophy  = "Understand the maths. Then write the code."
